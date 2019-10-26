@@ -40,12 +40,4 @@ public class InfoActivity extends AppCompatActivity {
         dial.setData(Uri.parse("tel:0123456789"));
         startActivity(dial);
     }
-
-    // ***
-    // TODO - Task 2 - Launch the Google Maps Activity
-    // ***
-
-    // ***
-    // TODO - Task 3 - Launch the Phone Activity
-    // ***
 }
